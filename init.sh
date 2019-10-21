@@ -5,5 +5,3 @@ git init
 rm README.md
 rm init.sh
 rm init.bat
-
-mkdir src
