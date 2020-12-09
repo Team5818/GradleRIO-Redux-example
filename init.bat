@@ -1,5 +1,6 @@
-REM del /S /Q .git
-REM git init
+@echo off
+del /S /Q .git
+git init
 del README.md
 del init.sh
 del init.bat
